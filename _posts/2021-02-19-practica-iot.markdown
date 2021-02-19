@@ -653,4 +653,4 @@ providers:
 Un dashboard de Grafana se representa por un objeto JSON, que almacena todos los metadatos del dashboard. Estos metadatos incluyen propiedades de los paneles, variables, etc. El archivo CO2Dashboard.json contiene los metadatos del los paneles que hemos creado para el dashboard de este proyecto.
 
 A continuación se muestra una imagen del dashboard almacenado en el archivo CO2Dashboard.json.
-![grafana](images/grafana.PNG)
+![grafana](https://github.com/Joland53/Joland53.github.io/blob/master/images/2021-02-19-iaw-iot/grafana.PNG)
