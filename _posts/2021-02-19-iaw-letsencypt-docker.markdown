@@ -12,7 +12,7 @@ Lo primero que haremos será crearnos una nueva instancia en Amazon Web Services
 Registraos un nombre de dominio por ejemplo en [Freenom](https://freenom.com)
 
 Configuramos los DNS en Freenom
-![DNS](Joland53.github.io/images/2021-02-19-iaw-letsencypt-docker/dns.PNG){:class="img-responsive"}
+![DNS](images/2021-02-19-iaw-letsencypt-docker/dns.PNG)
 
 Realizamos la instalacion de Docker y Docker-Compose
 ```
