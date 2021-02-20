@@ -4,7 +4,7 @@ title:  "Práctica: HTTPS con Let’s Encrypt, Docker y Docker Compose"
 date:   2021-02-19 04:40:45 -0600
 categories: IAW
 ---
-#  Práctica: HTTPS con Let’s Encrypt, Docker y Docker Compose
+#  Práctica: HTTPS con Let’s Encrypt, Docker y Docker Compose Juanjp
 En esta práctica vamos a habilitar el protocolo HTTPS en un sitio web PrestaShop que se estará ejecutando sobre contenedores Docker en una instancia EC2 de Amazon Web Services (AWS).
 
 Lo primero que haremos será crearnos una nueva instancia en Amazon Web Services.
